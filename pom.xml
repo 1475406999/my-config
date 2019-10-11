@@ -8,7 +8,7 @@
         <version>1.5.19.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.ubt.iot</groupId>
+    <groupId>com.sd.lgb</groupId>
     <artifactId>config-center</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>config-center</name>
